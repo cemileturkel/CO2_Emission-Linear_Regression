@@ -39,22 +39,25 @@ The analysis includes the following steps:
    - Use the trained model to predict CO2 emissions for new data points.
 
 ## Usage
-
 To run the analysis, follow these steps:
 
-1. Clone the repository: ```bash
+1. Clone the repository:
+   ```bash
    git clone https://github.com/cemileturkel/CO2_Emission-Linear_Regression.git
    cd CO2_Emission-Linear_Regression
    ```
 
-   Install the required dependencies:
+2. Install the required dependencies:
+   ```bash
+    pip install -r requirements.txt
+    ```
 
-pip install -r requirements.txt
-Run the analysis script:
-
-python analysis.py
-Results
+3. Run the analysis script:
+   ```bash
+   python analysis.py
+    ```
+## Results
 The results of the analysis, including visualizations and model performance metrics, are saved in the results directory.
 
-Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
