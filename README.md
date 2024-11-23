@@ -45,6 +45,7 @@ To run the analysis, follow these steps:
 1. Clone the repository: ```bash
    git clone https://github.com/cemileturkel/CO2_Emission-Linear_Regression.git
    cd CO2_Emission-Linear_Regression
+   ```
 
    Install the required dependencies:
 
